@@ -1,3 +1,3 @@
 print("HELLO WORLD, THIS IS GIT TEST")
 print("BELAJAR AI")
-print("YES")
+print("CABANG 1 NIH")
